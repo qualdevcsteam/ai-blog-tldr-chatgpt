@@ -45,7 +45,7 @@ Once activated, the plugin automatically shows:
 
 ### Manual Trigger
 - Edit any post → Scroll to bottom
-- Click "Generate TL;DR" button
+- Click the "Generate TL;DR" button
 - Summary appears in the TL;DR box
 
 ### View on Frontend
@@ -90,14 +90,14 @@ OpenAI offers $5 free credits for new accounts (expires after 3 months).
 ### Issue: "TL;DR not appearing"
 **Solution:**
 - Verify API key is saved
-- Check "Enable TL;DR" checkbox is checked
+- Check the "Enable TL;DR" checkbox is checked
 - Check post has enough content (500+ words recommended)
 - Wait 30 seconds for generation
 
 ### Issue: "Slow performance"
 **Solution:**
 - Increase cache duration in settings
-- Reduce number of posts with TL;DR
+- Reduce the number of posts with TL;DR
 - Contact your hosting provider
 
 ### Issue: "High API costs"
@@ -112,10 +112,10 @@ OpenAI offers $5 free credits for new accounts (expires after 3 months).
 A: Yes! Works with posts, pages, and custom post types.
 
 **Q: Can I customize the TL;DR length?**  
-A: Currently uses default length. Customization coming in v2.0.
+A: Currently uses the default length. Customization coming in v2.0.
 
 **Q: Is my API key safe?**  
-A: Your API key is encrypted in WordPress database. Never shared or logged.
+A: Your API key is encrypted in the WordPress database. Never shared or logged.
 
 **Q: Can I disable TL;DR for specific posts?**  
 A: Yes. Edit post → uncheck "Generate TL;DR" → Save.
@@ -126,7 +126,7 @@ A: Yes, fully compatible.
 **Q: Can I use multiple API keys?**  
 A: Currently supports one key. Multi-key support coming soon.
 
-**Q: What happens if API is down?**  
+**Q: What happens if the API is down?**  
 A: Plugin uses cached summaries. Shows cached version or "Try again later."
 
 ## Support
