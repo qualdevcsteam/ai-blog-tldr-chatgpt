@@ -26,7 +26,7 @@ Auto-generates TL;DR summaries for WordPress blog posts using OpenAI's ChatGPT A
 
 ### 3. Get OpenAI API Key
 - Visit: https://platform.openai.com/api-keys
-- Sign in or create account
+- Sign in or create an account
 - Click "Create new secret key"
 - Copy the key (starts with `sk-`)
 
@@ -49,7 +49,7 @@ Once activated, the plugin automatically shows:
 - Summary appears in the TL;DR box
 
 ### View on Frontend
-- Readers see the TL;DR box at top of posts
+- Readers see the TL;DR box at the top of posts
 - Can click ChatGPT/Perplexity buttons for extended discussion
 
 ## Settings
