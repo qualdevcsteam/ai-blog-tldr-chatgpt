@@ -10,6 +10,23 @@
  * Requires PHP: 7.4
  */
 
+
+require 'plugin-update-checker/plugin-update-checker.php';
+use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
+
+$myUpdateChecker = PucFactory::buildUpdateChecker(
+	'https://github.com/qualdevcsteam/ai-blog-tldr-chatgpt',
+	__FILE__,
+	'qd-ai-blog-tldr-chatgpt'
+);
+
+//Set the branch that contains the stable release.
+$myUpdateChecker->setBranch('main');
+
+//Optional: If you're using a private repository, specify the access token like this:
+$myUpdateChecker->setAuthentication('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');
+
+
 if (!defined('ABSPATH')) {
     exit;
 }
