@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: AI Blog TL;DR Generator (ChatGPT)
- * Plugin URI: https://yourdomain.com
+ * Plugin URI: https://qualdev.com
  * Description: Auto-generates TL;DR summaries using ChatGPT API
  * Version: 1.0.0
- * Author: Your Company
+ * Author: Qualdev.com
  * License: GPL v2 or later
  * Requires at least: 5.0
  * Requires PHP: 7.4
