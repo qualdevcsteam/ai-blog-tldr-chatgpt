@@ -3,7 +3,7 @@
  * Plugin Name: AI Blog TL;DR Generator (ChatGPT)
  * Plugin URI: https://www.qualdev.com
  * Description: Auto-generates TL;DR summaries using ChatGPT API
- * Version: 4.0.0.DT
+ * Version: 1.0.0.
  * Author: Qualdev.com
  * License: GPL v2 or later
  * Requires at least: 5.0
