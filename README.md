@@ -233,4 +233,3 @@ See LICENSE.txt for details.
 **Last Updated:** 2025-11-13  
 **Author:** qualdev.com 
 **Author URI:** https://qualdev.com  
-**Plugin URI:** https://[yoursite.com/ai-blog-tldr  ](https://qualdev.com/transform-your-e-commerce-workflow-with-ai-and-automation/)
